@@ -1,6 +1,7 @@
 /*
 STUDENT NAME: RAYMOND NDORO 
 ADM NO : D33-2402-2023
+TASK: AREA OF RECTANGLE 
 */
 #include<stdio.h>
 
