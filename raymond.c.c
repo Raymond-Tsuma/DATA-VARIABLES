@@ -1,4 +1,6 @@
-
+/*
+STUDENT NAME: RAYMOND NDORO 
+ADM NO : D33-2402-2023
 #include<stdio.h>
 
 int main(){
