@@ -1,6 +1,6 @@
 /* 
-NAME: ROWLAND WENDO 
-ADMISSION:D33-0263-2022 
+NAME: RAYMOND NDORO
+ADMISSION:D33-2402-2023
 */
 #include<stdio.h>
 int main() {
